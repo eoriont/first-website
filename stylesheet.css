@@ -1,0 +1,36 @@
+a {
+	text-decoration: none;
+	color: green;
+	font-family: cursive;
+	font-weight: bold;
+}
+a:hover {
+	text-decoration: underline;
+	color: red;
+	background-color: yellow;
+	font-weight: bolder;
+	font-size: 40px;
+}
+a:visited {
+	text-decoration: underline;
+	color: purple;
+	font-weight: inherit;
+}
+head {
+	font-size: 50px;
+	font-weight: bold;
+}
+li {
+	color:blue;
+	font-weight: bold;
+	font-family: Verdana;
+	font-size: 30px;
+}
+.padding-toplinks {
+	padding:20px;
+	text-align: center;
+}
+#on-website {
+	color: #00BA00;
+	font-weight: bold;
+}
