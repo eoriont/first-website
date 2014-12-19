@@ -13,7 +13,7 @@ a:hover {
 }
 a:visited {
 	text-decoration: underline;
-	color: purple;
+	color: #003366;
 	font-weight: inherit;
 }
 head {
@@ -33,4 +33,23 @@ li {
 #on-website {
 	color: #00BA00;
 	font-weight: bold;
+}
+.ColorFull {
+	color: #6600FF;
+	font-weight: bold;
+	font-size: 40px;
+}
+#colorFull {
+	color: #FFFF00;
+	font-size: 50px;
+	font-weight: lighter;
+	background-color: blue;
+}
+.RUBY {
+	color: #FF0000;
+	background-color: #0000FF;
+}
+.smallimg {
+	width: 20px;
+	height: 30px;
 }
